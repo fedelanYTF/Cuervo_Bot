@@ -18,21 +18,9 @@ ___
 
 <a href="https://github.com/WillZek/CrowBot-ST"><img src="https://cardivo.vercel.app/api?name=CrowBot&repo=CrowBot-ST&description=Hola+Soy+CrowBot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💛+ WillZek+Lanzó;🍷La+Version+2.5.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></a>
-
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## 🍷 REDES OFICIALES 
-
-[![Web](https://img.shields.io/badge/Web_Oficial-36DFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://crow-bot-dashboard.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maito:ninopina10@gmail.com)
-[![XDjajaj](https://img.shields.io/badge/Github-333522?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillZek)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/crowbot_wa)
-[![Patreon](https://img.shields.io/badge/Patreon-6C6C6C?style=for-the-badge&logo=patreon&logoColor=white)](https://nohay.com)
-[![Facebook Pijes](https://img.shields.io/badge/Facebook-3D9FFF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570569047747)
-[![Accounts](https://img.shields.io/badge/CUENTAS-000000%7D?style=for-the-badger&logo=biolink&logoColor=white)](https://www.atom.bio/crowbot-ofc)
 
 
 <a href="#"><img title="CrowBot" src="https://img.shields.io/badge/CROW 💛 | WILLZEK 💛 | SUN FLARE - TEAM 💛-blue?colorA=%#4651a6FF&colorB=%23ff0000&style=for-the-badge"></a>
