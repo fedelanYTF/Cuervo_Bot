@@ -1,9 +1,5 @@
 > **`🪩 Versión Actual: 2.5.0`**  
 
-<a
-href="https://github.com/fedelanYTF/Cuervo_Bot-ST/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/fedelanYTF/Cuervo_Bot-ST?color=yellow&style=flat-square"></a>
-<a href="https://github.com/fedelanYTF/Cuervo_Bot-ST/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/fedelanYTF/Cuervo_Bot-ST?label=Espectadores&style=social"></a>
-
 </p>
 
 
@@ -122,7 +118,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/WillZek/CrowBot-ST && cd CrowBot-ST
+git clone https://github.com/fedelanYTF/Cuervo_Bot && cd Cuervo_Bot
 ```
 
 ```bash
@@ -136,7 +132,7 @@ npm start
 
 > **Si después de poner el numero de WhatsApp, y sale letras en roja no se preocupe es normal**
 
-> [**`CrowBot Archivos`**](https://github.com/WillZek/CrowBot-ST/archive/refs/heads/master.zip)
+> [**`CrowBot Archivos`**](https://github.com/fedelanYTF/Cuervo_Bot-ST/archive/refs/heads/master.zip)
 
 </details>
 
