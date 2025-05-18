@@ -14,10 +14,6 @@ ___
 
 ![Menú Principal](https://files.catbox.moe/a0c21c.jpg)
 
-<a><img src='https://imgur.com/a/Nc1IsRn'/></a>   
-
-<a href="https://github.com/fedelanYTF/Cuervo_Bot-ST"><img src="https://cardivo.vercel.app/api?name=CuervoBot&repo=CrowBot-ST&description=Hola+Soy+CuervoBot+Disfruta+del+Bot+De+WhatsApp.&image=https://files.catbox.moe/a0c21c.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=cuervo_bot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
-
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -28,7 +24,7 @@ ___
 
 ![Menu Secundario](https://files.catbox.moe/iwnv7g.jpg)
 
-> Enlaces Oficiales De CrowBot
+> Enlaces Oficiales De Cuervo_Bot-ST
 
 ### **`🔗 OBTEN LOS ENLACES`**
 
@@ -49,7 +45,7 @@ ___
 
 ### **`🔱 CARACTERÍSTICAS`**
 <details>
- <summary><b> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Funciones de CrowBot (toca)</b></summary>
+ <summary><b> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Funciones de Cuervo-Bot (toca)</b></summary>
 
 > Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
 
@@ -74,22 +70,21 @@ ___
 
 ### **`👑 INFORMACION CONTACTOS`**
 
-#### **`Owner: WillZek 🤴`**
+#### **`Owner: fedelanYT 💙`**
 > **`Developed By: Moon Force`**
 
 #### **`CONTACTOS 💻`**
 <p>
 
 <a
-href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
+href="https://wa.me/5491156178758?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
 
 <details>
 <summary><b> 📞 Toca Aqui</b></summary>
 
-- **Propietario:** [`Aquí`](https:/Wa.me/50557865603)
-- **Github:** [`Aqui`](https://github.com/WillZek)
-- **Instagram:** [`Aqui`](https://www.instagram.com/pina_dzn)
-- **Correo:** [`Aqui`](ninopina10@gmail.com)
+- **Propietario:** [`Aquí`](https:/Wa.me/5491156178758)
+- **Github:** [`Aqui`](https://github.com/fedelanYTF)
+- **Correo:** [`Aqui`](fedelanytf@gmail.com)
 
 </details>
 
