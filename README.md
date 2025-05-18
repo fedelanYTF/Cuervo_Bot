@@ -23,12 +23,6 @@ ___
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-<a href="#"><img title="CrowBot" src="https://img.shields.io/badge/CROW 💛 | WILLZEK 💛 | SUN FLARE - TEAM 💛-blue?colorA=%#4651a6FF&colorB=%23ff0000&style=for-the-badge"></a>
-</p>
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 
 ### **`🎩 INFORMACION IMPORTANTE`**
 
