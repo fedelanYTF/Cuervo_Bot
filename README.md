@@ -16,7 +16,7 @@ ___
 
 <a><img src='https://imgur.com/a/Nc1IsRn'/></a>   
 
-<a href="https://github.com/fedelanYTF/Cuervo_Bot-ST"><img src="https://cardivo.vercel.app/api?name=CuervoBot&repo=CrowBot-ST&description=Hola+Soy+CrowBot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/fedelanYTF/Cuervo_Bot-ST"><img src="https://cardivo.vercel.app/api?name=CuervoBot&repo=CrowBot-ST&description=Hola+Soy+CuervoBot+Disfruta+del+Bot+De+WhatsApp.&image=https://files.catbox.moe/a0c21c.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=cuervo_bot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 
 <!-- RAINBOW LINE BOT -->
