@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Crow%20Bot%20💛&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
-![Bienvenida Épica](https://github.com/WillZek/WillZek/blob/main/Crow.svg)
+![Bienvenida Épica](https://github.com/fedelanYTF/fedelanYTF/blob/main/)
 
 > **`🪩 Versión Actual: 2.5.0`**  
 
@@ -10,20 +10,13 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 
 </p>
 
-___
-
-# **`📩 Donaciones`**
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/starcoreNinoPina)
-[![Donen Pijes](https://img.shields.io/badge/Donar-E4405F?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/crowclub#pageMessageModal)
-
 
 ___
 
 
-## 💛 **`C R O W - B O T`**    
+## 💛 **`Cuervo_Bot-ST`**    
 
-![Menú Principal](https://files.catbox.moe/v8q8y2.jpg)
+![Menú Principal](https://files.catbox.moe/a0c21c.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>   
 
