@@ -138,24 +138,6 @@ npm start
 
 ---
 
-### 🍭 `HOSTINGS INFORMACION`
-
-![Informacion](https://qu.ax/LgBRM.jpg)
-
-<details>
- <summary><b> 🎩 𝗛𝗢𝗦𝗧𝗜𝗡𝗚𝗦 𝗗𝗘 𝗖𝗔𝗟𝗜𝗗𝗔𝗗</b></summary>
-
-###  **`🍬 LUMINARY'S - HOSTING`**
-<a href="https://dash.luminarys.shop/home"><img src="https://qu.ax/aHudo.jpg" height="145px"></a>
-
-<details>
- <summary><b>🍂 Servidor Luminary's - Host</b></summary>
-
-* Dashboard: [`Dash`](https://dash.luminarys.shop)
-* Panel: [`Panel`](https://panel.luminarys.shop)
-* Grupo: [`Aquí`](https://chat.whatsapp.com/L29DaYhqORo2wBEF95j9D3)
-* Contacto(s): [`Vegeta`](https://wa.me/526633900512) / [`Marcos`](https://wa.me/525653326435) / [`Adrian`](https://wa.me/595976126756)
-
 </details>
 
 #### **`☁️ SKY ULTRA PLUS`**
@@ -202,16 +184,10 @@ href="https://dash.hostingpy.shop/"><img src="https://files.catbox.moe/lr92z2.jp
 
 </details>
 
-</details>
-
-## 🐦‍🔥 **`COLABORADORES`**
-<a href="https://github.com/The-king-Destroy"><img src="https://github.com/The-king-Destroy.png" width="100" height="100" alt="The-king-Destroy"/></a>
-<a href="https://github.com/Manuel12yt"><img src="https://github.com/Manuel12yt.png" width="100" height="100" alt="Manuel12yt"/></a>
-
 
 ## **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
 <a
-href="https://github.com/WillZek"><img src="https://github.com/WillZek.png" width="130" height="130" alt="WillZek"/></a>
+href="https://github.com/fedelanYTF"><img src="https://github.com/fedelanYTF.png" width="130" height="130" alt="fedelan"/></a>
 
 </details>
 
