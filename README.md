@@ -1,8 +1,8 @@
 > **`🪩 Versión Actual: 2.5.0`**  
 
 <a
-href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WillZek/CrowBot-ST?color=yellow&style=flat-square"></a>
-<a href="https://github.com/WillZek/CrowBot-ST/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/WillZek/CrowBot-ST?label=Espectadores&style=social"></a>
+href="https://github.com/fedelanYTF/Cuervo_Bot-ST/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/fedelanYTF/Cuervo_Bot-ST?color=yellow&style=flat-square"></a>
+<a href="https://github.com/fedelanYTF/Cuervo_Bot-ST/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/fedelanYTF/Cuervo_Bot-ST?label=Espectadores&style=social"></a>
 
 </p>
 
@@ -10,7 +10,7 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 ___
 
 
-## 💛 **`Cuervo_Bot-ST`**    
+## 🖤 **`Cuervo_Bot-ST`**    
 
 ![Menú Principal](https://files.catbox.moe/a0c21c.jpg)
 
